@@ -1,4 +1,5 @@
 package Chap02;
+// 선택 정렬
 
 public class prac01 {
     public static void main(String[] args) {
